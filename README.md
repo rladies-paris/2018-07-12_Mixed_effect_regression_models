@@ -1,4 +1,4 @@
-# Using R to analyse your data using mixed effects regression models
+# Using R to analyse your data with mixed effects regression models
 
 July 12, 2018 for the 13rd meetup of R-Ladies Paris. 
 
