@@ -11,4 +11,4 @@ Both presentations are in [Worshop_on_MEM.pptx](https://github.com/rladies-paris
 
 Same way, both codes are in the same R script ([R_code-12-jul.R](https://github.com/rladies-paris/2018-07-12_Mixed_effect_regression_models/R_code-12-jul.R)).
 
-Data used for the example are in [lexicalpriming.csv](). The goal with this dataset is to find which factors is influent on the speed for finding if a word is a true word or if it isn't a real word.
+Data used for the example are in [lexicalpriming.csv](2018-07-12_Mixed_effect_regression_models/lexicalpriming.csv). The goal with this dataset is to find which factors is influent on the speed for finding if a word is a true word or if it isn't a real word.
