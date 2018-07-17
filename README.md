@@ -1,9 +1,8 @@
-# Analyse sentimentale des tweets et Web scraping avec Rvest
+# Using R to analyse your data using mixed effects regression models
 
-Présentations fait le 24 janvier 2018 pour le 10e meetup des R-Ladies Paris. 
+July 12, 2018 for the 13rd meetup of R-Ladies Paris. 
 
-Accueilli par le groupe ESTIA 
+Welcomed by ENS and supported by DEC-Life. 
 
-* [Présentation analyse sentimentale](twitteR_analyse_sentiments.pdf) (Ahès ROULIER, PDF)
-* [Présentation web scaping - rvest](rvest_introduction_web_scraping.pdf) (Stéphanie TERRASSE, PDF)
-* [Code d'exemple rvest](rvest_exemple_figaro.R) (Stéphanie TERRASSE, R)
+* [Mixed effects regression models] (Naomi Havron)
+* [Interactions and parsimonious models](rvest_introduction_web_scraping.pdf) (Nura Sidarus)
