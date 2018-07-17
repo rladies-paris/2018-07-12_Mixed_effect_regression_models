@@ -8,4 +8,4 @@ Welcomed by ENS and supported by DEC-Life.
 * Interactions and parsimonious models (Nura Sidarus)
 
 Both presentations are in [Workshop on MEM]() (the begining is Naomi's slides and it's ending by Nura slides).
-Same way, both codes are in the same R script ([R code-12-jul.R]()).
+Same way, both codes are in the same R script ([R code-12-jul.R]( 2018-07-12_Mixed_effect_regression_models/R code-12-jul.R )).
