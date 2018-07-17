@@ -4,5 +4,8 @@ July 12, 2018 for the 13rd meetup of R-Ladies Paris.
 
 Welcomed by ENS and supported by DEC-Life. 
 
-* [Mixed effects regression models] (Naomi Havron)
-* [Interactions and parsimonious models] (Nura Sidarus)
+* Mixed effects regression models (Naomi Havron)
+* Interactions and parsimonious models (Nura Sidarus)
+
+Both presentations are in [Workshop on MEM]() (the begining is Naomi's slides and it's ending by Nura slides).
+Same way, both codes are in the same R script ([R code-12-jul.R]()).
